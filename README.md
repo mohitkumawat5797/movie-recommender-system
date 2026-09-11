@@ -23,3 +23,10 @@ Follow these steps to run the project on your computer:
 ```bash
 git clone [https://github.com/mohitkumawat5797/movie-recommender-system.git](https://github.com/mohitkumawat5797/movie-recommender-system.git)
 cd movie-recommender-system
+```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ead5da29-7654-4293-8499-82c64ddc84b7" width="75%" alt="Preview 2" />
+  <br /><br />
+  <img src="https://github.com/user-attachments/assets/7dce9808-994b-41c0-a7f1-41c268a3d990" width="75%" alt="Preview 1" />
+</p>
+
